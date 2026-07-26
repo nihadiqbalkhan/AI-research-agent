@@ -1,0 +1,9 @@
+Grid Integration Challenges
+
+Electricity grids were originally designed around a small number of large, controllable power plants whose output could be dialed up or down to match demand. Integrating large shares of solar and wind requires grid operators to instead manage variable generation that changes with weather rather than on command.
+
+One major challenge is transmission capacity: the best solar and wind resources are often located far from population centers, and building new high-voltage transmission lines to connect them can take a decade or more due to permitting and land-rights negotiations.
+
+Grid operators also need to maintain frequency stability, traditionally provided by the spinning mass of large generators. As more of the grid shifts to solar and wind, which do not naturally provide that spinning inertia, operators are increasingly relying on batteries and grid-forming inverters to provide equivalent stability services.
+
+Curtailment, where solar or wind output is deliberately reduced because the grid cannot absorb it, is a growing issue in regions with high renewable penetration. Expanding transmission, adding storage, and enabling demand to shift toward periods of high renewable output are the main strategies used to reduce curtailment.

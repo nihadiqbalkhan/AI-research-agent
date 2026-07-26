@@ -1,0 +1,9 @@
+Solar Power Overview
+
+Solar photovoltaic (PV) panels convert sunlight directly into electricity using semiconductor cells, most commonly made from crystalline silicon. Utility-scale solar farms now routinely reach capacity factors of 20-30% in sunny regions, meaning the panels produce that share of their theoretical maximum output over a year once cloud cover and nighttime hours are accounted for.
+
+The cost of solar modules has fallen by roughly 90% since 2010, driven by manufacturing scale-up, thinner silicon wafers, and automated production lines. This decline has made solar the cheapest source of new electricity generation in many parts of the world, even without subsidies, according to multiple industry cost benchmarks.
+
+Solar output is intermittent: it only generates during daylight hours and drops sharply under cloud cover. This variability is the main reason solar is often paired with battery storage or backed up by other generation sources on the grid.
+
+Rooftop residential solar installations typically range from 4 to 10 kilowatts in size, while utility-scale solar farms can exceed several hundred megawatts. Community solar programs allow renters and homeowners without suitable roofs to subscribe to a share of a shared, off-site solar array.

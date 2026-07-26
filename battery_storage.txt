@@ -1,0 +1,9 @@
+Grid-Scale Battery Storage
+
+Lithium-ion batteries are the dominant technology for grid-scale energy storage today, prized for their high energy density, falling costs, and fast response times. A grid battery can shift from idle to full output in under a second, making it well suited to smoothing short-term fluctuations from solar and wind.
+
+Battery storage costs have dropped by more than 80% over the past decade, following a cost curve similar to solar panels. This has made pairing batteries with solar and wind farms increasingly common, allowing excess daytime solar generation to be stored and discharged in the evening.
+
+Most grid batteries installed today provide between two and four hours of storage at rated power, which is enough to shift renewable generation across a few hours but not to cover multi-day gaps in wind or solar output. Longer-duration storage technologies, such as flow batteries and pumped hydro, are being developed to address multi-day or seasonal storage needs.
+
+Battery degradation is a key consideration: lithium-ion batteries lose capacity gradually with each charge cycle, and grid operators typically plan for a battery system to retain around 70-80% of its original capacity after 10 years of operation.

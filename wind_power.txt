@@ -1,0 +1,9 @@
+Wind Power Overview
+
+Modern wind turbines convert the kinetic energy of moving air into electricity using large rotor blades connected to a generator. Onshore turbines typically stand 80-120 meters tall, while offshore turbines are often larger because they are not constrained by road-transport limits on blade length.
+
+Offshore wind farms benefit from stronger, steadier winds over open water, which gives them higher capacity factors than most onshore installations, often in the 40-50% range compared to 25-35% onshore. However, offshore projects cost significantly more to build and maintain because of the marine foundations, subsea cabling, and specialized vessels required.
+
+Like solar, wind generation is variable: output depends on wind speed and can drop to near zero during calm periods. Grid operators address this by combining wind with other generation sources, geographically diverse wind farms, and, increasingly, battery storage.
+
+Wind turbine blades are difficult to recycle at end of life because they are made from composite fiberglass materials. Several manufacturers are now developing blades with resin systems designed to be chemically broken down and reused.

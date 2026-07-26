@@ -1,0 +1,9 @@
+Policy and Incentives for Renewable Energy
+
+Many governments use tax credits, such as investment tax credits or production tax credits, to lower the effective cost of building solar and wind projects. These credits typically reduce the project developer's tax liability by a percentage of the capital cost or by a fixed amount per unit of electricity generated.
+
+Renewable portfolio standards require utilities to source a minimum percentage of their electricity from renewable sources by a target year. These standards have historically been one of the main policy tools used to drive utility-scale wind and solar deployment.
+
+Net metering policies allow homeowners with rooftop solar to receive credit on their electricity bill for excess power they send back to the grid. The value of that credit varies significantly by jurisdiction and has become a contested policy area as utilities argue it shifts grid costs onto non-solar customers.
+
+Carbon pricing, through either a carbon tax or a cap-and-trade system, raises the cost of fossil-fuel generation relative to renewables without directly subsidizing renewable projects. Economists generally view carbon pricing as an efficient tool for reducing emissions, though it faces political resistance in many jurisdictions.
